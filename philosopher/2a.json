@@ -1,0 +1,10 @@
+{
+  "book_id": "2a",
+  "title": "尼各马可伦理学",
+  "philosopher_id": 2,
+  "description": "亚里士多德的伦理学著作，探讨幸福、德性与道德行为。",
+  "ideas": [
+    { "concept": "幸福", "description": "幸福是人生的最终目标，通过德性和理性活动实现。" },
+    { "concept": "中庸之道", "description": "德性是两个极端之间的中庸，如勇敢是鲁莽与怯懦的中庸。" }
+  ]
+}

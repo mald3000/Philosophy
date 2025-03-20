@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "柏拉图",
+  "birthplace": "雅典",
+  "era": "古希腊",
+  "books": [
+    { "title": "理想国", "description": "探讨正义与理想社会的著作" },
+    { "title": "斐多篇", "description": "讨论灵魂不朽的对话录" }
+  ]
+}

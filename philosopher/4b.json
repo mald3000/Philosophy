@@ -1,0 +1,10 @@
+{
+  "book_id": "4b",
+  "title": "善恶的彼岸",
+  "philosopher_id": 4,
+  "description": "尼采的哲学著作，批判传统道德，提出主人道德与奴隶道德的区分。",
+  "ideas": [
+    { "concept": "主人道德", "description": "主人道德强调力量、创造与自我肯定，是强者的道德。" },
+    { "concept": "奴隶道德", "description": "奴隶道德强调谦卑、怜悯与服从，是弱者的道德。" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "book_id": 1,
+  "title": "理想国",
+  "philosopher_id": 1,
+  "ideas": [
+    { "concept": "正义", "description": "正义是每个人各司其职..." },
+    { "concept": "哲人王", "description": "哲学家应成为统治者..." }
+  ]
+}
+

@@ -1,0 +1,10 @@
+{
+  "book_id": "2b",
+  "title": "形而上学",
+  "philosopher_id": 2,
+  "description": "亚里士多德的形而上学著作，探讨存在、本质与原因。",
+  "ideas": [
+    { "concept": "四因说", "description": "事物的原因包括质料因、形式因、动力因和目的因。" },
+    { "concept": "实体", "description": "实体是独立存在的个体，是其他属性的基础。" }
+  ]
+}

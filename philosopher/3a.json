@@ -1,0 +1,10 @@
+{
+  "book_id": "3a",
+  "title": "纯粹理性批判",
+  "philosopher_id": 3,
+  "description": "康德的哲学著作，探讨人类认识能力的界限与可能性。",
+  "ideas": [
+    { "concept": "先验知识", "description": "人类的认识依赖于先验的形式和范畴。" },
+    { "concept": "二律背反", "description": "理性在超越经验时会陷入矛盾，如自由与必然的二律背反。" }
+  ]
+}

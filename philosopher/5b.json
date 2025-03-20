@@ -1,0 +1,10 @@
+{
+  "book_id": "5b",
+  "title": "方法论",
+  "philosopher_id": 5,
+  "description": "笛卡尔的哲学著作，提出理性思维的四条规则。",
+  "ideas": [
+    { "concept": "怀疑方法", "description": "通过怀疑一切不可靠的知识，寻找确定性的基础。" },
+    { "concept": "四条规则", "description": "包括明确性、分析性、综合性和全面性。" }
+  ]
+}
